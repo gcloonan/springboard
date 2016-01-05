@@ -13,6 +13,9 @@ Using Dept. of Education surveys, I will develop an assessment based on several 
 
 
 
+
+
+
 ### 2. I ain't got no type, curve: *Predicting oil well production by developing local type curves*
 
 ##### Overview:
@@ -22,6 +25,9 @@ I will attempt to determine the method for constructing a type curve (fluids pro
 
 ##### Data Source:
 Most states require operators to report monthly production data. TBD based on project selection and data availability by state.
+
+
+
 
 
 
@@ -36,6 +42,9 @@ I expect some differences simply due to ability to pay but would like to underst
 
 ##### Data Source:
 [California Solar Initiative](https://www.californiasolarstatistics.ca.gov)
+
+
+
 
 
 
