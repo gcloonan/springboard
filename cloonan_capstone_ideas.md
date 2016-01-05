@@ -2,7 +2,6 @@
 ##### Greg Cloonan
 <br>
   
-  
 </br>
 ### 1. Saving the Sweetbriars: *Developing an assessment of financial health and risk for universities*
 
@@ -13,9 +12,10 @@ Using Dept. of Education surveys, I will develop an assessment based on several 
 
 ##### Data Source:
 [National Center for Education Statistics](https://www.nces.ed.gov)  
+<br>
   
   
-  
+</br>
 ### 2. I ain't got no type, curve: *Predicting oil well production by developing local type curves*
 
 ##### Overview:
@@ -25,9 +25,10 @@ I will attempt to determine the method for constructing a type curve (fluids pro
 
 ##### Data Source:
 Most states require operators to report monthly production data. TBD based on project selection and data availability by state.  
+<br>
   
   
-  
+</br>
 ### 3. Let them eat light: *Exploring the penetration of rooftop solar in middle and lower class communities*
 
 ##### Overview:
@@ -39,9 +40,10 @@ I expect some differences simply due to ability to pay but would like to underst
 
 ##### Data Source:
 [California Solar Initiative](https://www.californiasolarstatistics.ca.gov)  
+<br>
   
   
-  
+</br>
 ### 4. Show me the money: *Predicting athlete performance when changing teams*
 
 ##### Overview:
