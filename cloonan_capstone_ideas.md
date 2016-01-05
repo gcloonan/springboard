@@ -1,8 +1,7 @@
 # Springboard Foundations of Data Science: Capstone Project Ideas
 ##### Greg Cloonan
 
-### 1. Saving the Sweetbriars:  
-  Developing an assessment of financial health and risk for universitie s  
+### 1. Saving the Sweetbriars: *Developing an assessment of financial health and risk for universities*
 
 ##### Overview:
 Over the past several years, headlines have featured small and medium-sized colleges permanently shuttering their gates to the dismay of employees, students, and alumni.
@@ -14,7 +13,7 @@ Using Dept. of Education surveys, I will develop an assessment based on several 
 
 
 
-### 2. I ain't got no type, curve: Predicting oil well production by developing local type curves
+### 2. I ain't got no type, curve: *Predicting oil well production by developing local type curves*
 
 ##### Overview:
 Accurately predicting oil well production is financially prudent yet elusive for many oil companies, especially with the advent of horizontal drilling and hydraulic fracturing.
@@ -26,7 +25,7 @@ Most states require operators to report monthly production data. TBD based on pr
 
 
 
-### 3. Let them eat light: Exploring the penetration of rooftop solar in middle and lower class communities
+### 3. Let them eat light: *Exploring the penetration of rooftop solar in middle and lower class communities*
 
 ##### Overview:
 We're fed a narrative of the explosion in popularity of rooftop solar, but I want to explore how accurate this is beyond the upper echelons of society.
@@ -40,7 +39,7 @@ I expect some differences simply due to ability to pay but would like to underst
 
 
 
-### 4. Show me the money: Predicting athlete performance when changing teams
+### 4. Show me the money: *Predicting athlete performance when changing teams*
 
 ##### Overview:
 NFL teams pay exorbitant amounts (often much of it in guaranteed sums) for players based soley on historical performance in a dramatically different environment (teammates, coaches, climate, etc.).
