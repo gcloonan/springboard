@@ -1,4 +1,4 @@
-# Springboard Foundations of Data Science: Capstone Project Ideas
+## Springboard Foundations of Data Science: Capstone Project Ideas
 ##### Greg Cloonan
 
 ### 1. Saving the Sweetbriars: *Developing an assessment of financial health and risk for universities*
